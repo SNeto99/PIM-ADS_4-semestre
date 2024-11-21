@@ -93,7 +93,7 @@
     \begin{titlepage}
         \begin{center}
             \vspace*{2cm}
-            {\includegraphics[width=0.3\textwidth]{logo_unip.png}}\\[1cm]
+            {\includegraphics[width=0.3\textwidth]{imagens/images.png}}\\[1cm]
             
             {\Huge\textbf{Sistema Urban Farm}}\\[1cm]
             {\Large Sistema Integrado para Controle de Operações}\\[1cm]
@@ -185,7 +185,7 @@
     % Adicionar screenshot da tela de login
     \begin{figure}[H]
         \centering
-        % Adicionar \includegraphics{caminho/para/imagem/login.png}
+        % Adicionar \includegraphics{imagens/telas de login web.png}
         \caption{Tela de Login - Sistema Desktop}
     \end{figure}
 
@@ -210,24 +210,44 @@
     % Adicionar screenshot da homepage
     \begin{figure}[H]
         \centering
-        % Adicionar \includegraphics{caminho/para/imagem/homepage.png}
+        \includegraphics[width=\textwidth]{imagens/Tela de inicio web.png}
         \caption{Página Inicial - Sistema Web}
     \end{figure}
 
-    \subsubsection{Catálogo de Produtos}
-    % Adicionar screenshot do catálogo
     \begin{figure}[H]
         \centering
-        % Adicionar \includegraphics{caminho/para/imagem/catalogo.png}
-        \caption{Catálogo de Produtos - Sistema Web}
+        \includegraphics[width=\textwidth]{imagens/tela de login web.png}
+        \caption{Tela de Login - Sistema Web}
     \end{figure}
 
-    \subsubsection{Carrinho de Compras}
-    % Adicionar screenshot do carrinho
     \begin{figure}[H]
         \centering
-        % Adicionar \includegraphics{caminho/para/imagem/carrinho.png}
+        \includegraphics[width=\textwidth]{imagens/login efetuado com sucesso web.png}
+        \caption{Login Efetuado com Sucesso - Sistema Web}
+    \end{figure}
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=\textwidth]{imagens/tela de cadastro de produtos web.png}
+        \caption{Cadastro de Produtos - Sistema Web}
+    \end{figure}
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=\textwidth]{imagens/tela de cadastro de fornecedores web.png}
+        \caption{Cadastro de Fornecedores - Sistema Web}
+    \end{figure}
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=\textwidth]{imagens/carrinho de compras web.png}
         \caption{Carrinho de Compras - Sistema Web}
+    \end{figure}
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=\textwidth]{imagens/finalizar compra web.png}
+        \caption{Finalizar Compra - Sistema Web}
     \end{figure}
 
     \subsection{Aplicativo Mobile}
